@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d3811be-feab-4fe6-9685-cae035ef525d" name="Changes" comment="" />
+    <list default="true" id="0d3811be-feab-4fe6-9685-cae035ef525d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/basedao-sample/src/main/java/top/lkr/basedao/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basedao-sample/src/main/java/top/lkr/basedao/context/DataContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basedao-sample/src/main/java/top/lkr/basedao/dao/BaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basedao-sample/src/main/java/top/lkr/basedao/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basedao-sample/src/main/java/top/lkr/basedao/dao/impl/BaseDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basedao-sample/src/main/java/top/lkr/basedao/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basedao-sample/src/main/java/top/lkr/basedao/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-lesson/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,8 +37,27 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.14124292" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="basedao-sample" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="basedao-sample" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -38,6 +68,8 @@
       <option name="presentableId" value="Default" />
       <updated>1636934557943</updated>
       <workItem from="1636934560166" duration="116000" />
+      <workItem from="1636935953206" duration="110000" />
+      <workItem from="1636936094748" duration="33000" />
     </task>
     <servers />
   </component>
