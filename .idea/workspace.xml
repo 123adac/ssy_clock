@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d3811be-feab-4fe6-9685-cae035ef525d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/basedao-sample/src/main/java/top/lkr/basedao/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basedao-sample/src/main/java/top/lkr/basedao/context/DataContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basedao-sample/src/main/java/top/lkr/basedao/dao/BaseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basedao-sample/src/main/java/top/lkr/basedao/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basedao-sample/src/main/java/top/lkr/basedao/dao/impl/BaseDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basedao-sample/src/main/java/top/lkr/basedao/dao/impl/BookDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basedao-sample/src/main/java/top/lkr/basedao/entity/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-lesson/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0d3811be-feab-4fe6-9685-cae035ef525d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-lesson" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.14124292" />
@@ -70,6 +59,7 @@
       <workItem from="1636934560166" duration="116000" />
       <workItem from="1636935953206" duration="110000" />
       <workItem from="1636936094748" duration="33000" />
+      <workItem from="1636990049352" duration="71000" />
     </task>
     <servers />
   </component>
